@@ -1,0 +1,1 @@
+{"version":3,"file":"handleClick.js","sourceRoot":"","sources":["../../../src/events/handlers/handleClick.ts"],"names":[],"mappings":";;AAEA,IAAM,WAAW,GAAG,UAAC,UAAsB,EAAE,CAAa;IACxD,IAAI,UAAU,CAAC,UAAU;QAAE,OAAO;IAElC,CAAC,CAAC,cAAc,EAAE,CAAC;IACnB,CAAC,CAAC,eAAe,EAAE,CAAC;AACtB,CAAC,CAAC;AAEF,kBAAe,WAAW,CAAC"}

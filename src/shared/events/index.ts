@@ -1,0 +1,13 @@
+export {default as PointerDoubleTapEvent} from './pointerDoubleTapEvent';
+export {default as PointerDownEvent} from './pointerDownEvent';
+export {default as PointerDragEvent} from './pointerDragEvent';
+export {default as DynamicEvent} from './pointerifyDynamicEvent';
+export {default as StaticEvent} from './pointerifyStaticEvent';
+export {default as PointerInspectEvent} from './pointerInspectEvent';
+export {default as PointerStopEvent} from './pointerStopEvent';
+export {default as PointerTapEvent} from './pointerTapEvent';
+export {default as PointerUpEvent} from './pointerUpEvent';
+export {default as VirtualPointerCreateEvent} from './virtualPointerCreateEvent';
+export {default as VirtualPointerDestroyEvent} from './virtualPointerDestroyEvent';
+export {default as VirtualPointerMoveEvent} from './virtualPointerMoveEvent';
+export {default as VirtualPointerPinchEvent} from './virtualPointerPinchEvent';
